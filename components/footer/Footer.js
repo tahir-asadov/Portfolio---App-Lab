@@ -8,6 +8,7 @@ const FooterStyle = styled.div`
   min-height: 567px;
   background-color: #09142e;
   padding: 50px 0 30px 0;
+  display: flex;
 `;
 const ContainerStyle = styled(Container)`
   display: flex;
